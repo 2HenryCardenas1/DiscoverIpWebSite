@@ -13,3 +13,4 @@ if __name__ == '__main__':
         url = str(sys.argv[0])    
         print(f'La ip de < {url} > es {s.gethostbyname(url)}')    
     except:
+	dato_erroneo()
