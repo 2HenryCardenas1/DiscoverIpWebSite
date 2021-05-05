@@ -2,6 +2,8 @@
 import socket as s 
 import os, sys
 
+#Autor:Henry Cardenas
+
 def dato_erroneo(): 
 
     '''Ingresar url sin directorios y sin http
