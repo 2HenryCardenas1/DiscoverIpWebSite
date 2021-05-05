@@ -1,6 +1,6 @@
-#Encontrar la IP de una pagina web
+# Encontrar la IP de una pagina web
 
-##Instrucciones
+## Instrucciones
 
 1) Clona el repositorio:  https://github.com/2HenryCardenas1/DiscoverIpWebSite.git
 2) Ejecuta el script de la sigente forma
