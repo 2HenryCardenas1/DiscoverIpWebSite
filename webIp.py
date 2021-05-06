@@ -10,7 +10,7 @@ def error():
     if len(sys.argv) != 2:
         print("\n[!] Uso: python3 " + sys.argv[0] + " <nombre del dominio>\n")
         sys.exit(1)
-    else:
+    else :
         print("\n[x] Lo sentimos, no encontramos la ip")
 
 
@@ -23,5 +23,4 @@ if __name__ == '__main__':
         print(f'\n\t[*] La ip de < {url} > es {s.gethostbyname(url)}')
 
     except :
-
         error()
