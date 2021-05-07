@@ -1,8 +1,8 @@
-# Encontrar la IP de una pagina web
+# Encontrar la IP de una pagina web :globe_with_meridians: :snake:
 
 ## Instrucciones
 
-1) Clona el repositorio: git clone https://github.com/2HenryCardenas1/DiscoverIpWebSite.git
+1) Clona el repositorio : git clone https://github.com/2HenryCardenas1/DiscoverIpWebSite.git
 2) Ejecuta el script de la sigente forma
     
     **Si estas en Linux**
