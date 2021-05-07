@@ -14,4 +14,4 @@
     python webIp.py www.pagina.com
     
 3) No ingresar la direccion web con el http o https de la pagina
-4) No ingresar direcctorios de la pagina,es decir : www.pagina.com/una/cosa
+4) No ingresar directorios de la pagina,es decir : www.pagina.com/una/cosa
