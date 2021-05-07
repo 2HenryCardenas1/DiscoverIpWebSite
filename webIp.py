@@ -11,7 +11,7 @@ def error():
         print("\n[!] Uso: python3 " + sys.argv[0] + " <nombre del dominio>\n")
         sys.exit(1)
     else :
-        print("\n[x] Lo sentimos, no encontramos la ip")
+        print("\n\t[x] Lo sentimos, no encontramos la ip")
 
 
 if __name__ == '__main__':
